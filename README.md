@@ -136,28 +136,6 @@ Student-Performance-Prediction/
 └── README.md
 ```
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Student-Performance-Prediction.git
-```
-
-### 2. Open the project
-
-Open the notebook:
-
-```text
-Student_Performance_Prediction.ipynb
-```
-
-You can run it using **Jupyter Notebook** or **Google Colab**.
-
-### 3. Dataset Path
-
-Make sure the dataset file is available and update the CSV path in the notebook if required.
-
 ## 🔮 Future Improvements
 
 The project can be improved by:
